@@ -1,3 +1,5 @@
+This is a personal website for showing information about our wedding.  It was built with [Jekyll-Bootstrap](http://jekyllbootstrap.com).
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
